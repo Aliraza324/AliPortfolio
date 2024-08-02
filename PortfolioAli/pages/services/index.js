@@ -13,7 +13,7 @@ const serviceData = [
   {
     icon: <RxCrop />,
     title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing .',
   },
   {
     icon: <RxPencil2 />,
