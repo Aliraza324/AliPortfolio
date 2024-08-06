@@ -16,8 +16,8 @@ const workSlides = {
         },
         {
           title: 'title 3',
-          path: '/thumb3.jpg',
-          link: 'https://example.com/project3'
+          path: '/1.png',
+          link: 'https://aquafreshdxb.com/'
         },
         {
           title: 'title 4',
