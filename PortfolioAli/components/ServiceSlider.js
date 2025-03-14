@@ -22,7 +22,7 @@ import {
   {
     icon: <RxCrop />,
     title: 'Branding',
-    description: 'Create a unique and memorable identity that stands out.',
+    description: 'Create a unique and memorable design.',
   },
   {
     icon: <RxPencil2 />,
