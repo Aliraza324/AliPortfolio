@@ -21,7 +21,7 @@ const workSlides = {
         },
          {
           title: 'title 4',
-          path: '/Todo-app.png',
+          path: '/TodoApp.png',
           link: 'https://todo-app-five-blush.vercel.app/'
         },
       ],
