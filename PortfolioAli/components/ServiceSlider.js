@@ -18,33 +18,34 @@ import {
 
 
 // data
-const serviceData = [
+   const serviceData = [
   {
     icon: <RxCrop />,
     title: 'Branding',
-    description: 'Build a strong and memorable brand identity that sets you apart from the competition. We craft compelling visuals and strategies that leave a lasting impression.',
+    description: 'Create a unique and memorable identity that stands out.',
   },
   {
     icon: <RxPencil2 />,
     title: 'Design',
-    description: 'Transform ideas into stunning visuals. From eye-catching graphics to user-friendly interfaces, our designs captivate and engage your audience effortlessly.',
+    description: 'Visually stunning and user-friendly designs for impact.',
   },
   {
     icon: <RxDesktop />,
     title: 'Development',
-    description: 'Custom-built, high-performance websites that are responsive, fast, and tailored to your business needs. Elevate your online presence with our cutting-edge development solutions.',
+    description: 'Fast, responsive, and high-performance web solutions.',
   },
   {
     icon: <RxReader />,
     title: 'Copywriting',
-    description: 'Words that sell, engage, and inspire. We create persuasive and SEO-optimized content that turns visitors into loyal customers.',
+    description: 'Engaging and persuasive content that drives action.',
   },
   {
     icon: <RxRocket />,
     title: 'SEO',
-    description: 'Boost your website’s visibility and rank higher on search engines. Our proven SEO strategies drive more traffic, leads, and conversions for your business.',
+    description: 'Boost rankings and increase visibility with smart SEO.',
   },
 ];
+
 
 const ServiceSlider = () => {
   return (
