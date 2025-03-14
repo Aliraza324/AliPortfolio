@@ -19,10 +19,10 @@ const workSlides = {
           path: '/1.png',
           link: 'https://aquafreshdxb.com/'
         },
-        {
+         {
           title: 'title 4',
-          path: '/2.png',
-          link: 'https://example.com/project4'
+          path: '/Todo-app.png',
+          link: 'https://todo-app-five-blush.vercel.app/'
         },
       ],
     },
