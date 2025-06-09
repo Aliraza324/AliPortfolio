@@ -29,9 +29,9 @@ const workSlides = {
     {
       images: [
         {
-          title: 'title 5',
-          path: '/thumb4.jpg',
-          link: 'https://example.com/project5'
+          title: 'Awards winning website',
+          path: '/awards.png',
+          link: 'https://awwards-website-jet.vercel.app/'
         },
         {
           title: 'title 6',
