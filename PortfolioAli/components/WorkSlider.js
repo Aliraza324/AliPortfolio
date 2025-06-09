@@ -30,7 +30,7 @@ const workSlides = {
       images: [
         {
           title: 'Awards winning website',
-          path: '/main.png',
+          path: '/replace.png',
           link: 'https://awwards-website-jet.vercel.app/'
         },
         {
